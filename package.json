@@ -1,0 +1,1 @@
+{"description":"One-line excuse from an AI agent for green tests while nothing works: the tests only assert the function exists.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"green-tests-nothing-works-20261126","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
